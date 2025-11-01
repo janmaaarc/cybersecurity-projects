@@ -13,12 +13,12 @@ A Python tool that analyzes the strength of passwords based on character variety
 It encourages better password practices to defend against brute-force and dictionary attacks.
 
 ### 2. [Phishing Link Detector](phishing-link-detector)
-(A sample placeholder — you can add later.)  
-Detects suspicious URLs using keyword patterns, domain checks, and regular expressions to identify possible phishing attempts.
+A Python tool that analyzes URLs to detect potential phishing attempts.  
+It checks for suspicious keywords, uncommon domains, and unsafe patterns through regular expressions and domain analysis.  
 
 ### 3. [Keylogger Detector](keylogger-detector)
-(Another future project idea.)  
-Scans running system processes for potential keylogger behavior to protect user input privacy.
+(Coming soon)  
+A planned project that will scan running system processes to identify potential keylogger activity and enhance user input security.
 
 ---
 
