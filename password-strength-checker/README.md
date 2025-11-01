@@ -37,6 +37,7 @@ cybersecurity-projects/
 └── password-strength-checker/
     ├── password_checker.py
     ├── README.md
+    ├── requirements.txt
 ```
 
 ## Future Improvements
