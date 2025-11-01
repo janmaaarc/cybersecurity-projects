@@ -1,4 +1,4 @@
-# 🧠 Cybersecurity Projects
+# Cybersecurity Projects
 
 Welcome to my **Cybersecurity Projects** collection!  
 This folder contains hands-on projects focused on security automation, password protection, and cyber threat prevention.  
@@ -6,7 +6,7 @@ Each project demonstrates practical applications of cybersecurity concepts using
 
 ---
 
-## 🔐 Project List
+## Project List
 
 ### 1. [Password Strength Checker](password-strength-checker)
 A Python tool that analyzes the strength of passwords based on character variety, length, and pattern detection.  
@@ -22,7 +22,7 @@ Scans running system processes for potential keylogger behavior to protect user 
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 - Python scripting for security tools  
 - Pattern recognition and data validation  
 - Threat and vulnerability awareness  
@@ -31,7 +31,7 @@ Scans running system processes for potential keylogger behavior to protect user 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Python** (primary language)  
 - **Regex** for pattern matching  
 - **Tkinter** for optional GUI interfaces  
@@ -39,7 +39,7 @@ Scans running system processes for potential keylogger behavior to protect user 
 
 ---
 
-## 🚀 How to Explore
+## How to Explore
 Each subfolder contains:
 - The project source code (`.py` files or scripts)  
 - A dedicated `README.md` explaining how to use it  
@@ -49,3 +49,4 @@ To clone and explore locally:
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd cybersecurity-projects
+```
