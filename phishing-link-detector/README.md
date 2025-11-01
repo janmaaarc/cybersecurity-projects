@@ -37,9 +37,8 @@ git init
 cybersecurity-projects/
 │
 └── phishing-link-detector/
-    ├── phishing_detector.py
     ├── README.md
-    ├── screenshots/
+    ├── phishing_detector.py
 ```
 
 ## Future Improvements
