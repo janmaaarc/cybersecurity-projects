@@ -1,45 +1,34 @@
-# Password Strength Checker
+# 🔐 Password Strength Checker (GUI Version)
 
-A simple GUI application built with Python and Tkinter that checks the strength of passwords.
+A Python desktop application built with **Tkinter** that evaluates the strength of a password based on its length, character diversity, and whether it matches common weak passwords.  
+It provides instant visual feedback using color indicators — helping users create stronger, more secure passwords.
 
-## Features
+---
 
-- Real-time password strength evaluation
-- Visual feedback with colors and emojis
-- Password visibility toggle
-- Checks for:
-  - Minimum length (8 characters)
-  - Uppercase letters
-  - Lowercase letters
-  - Numbers
-  - Special characters
-  - Common weak passwords
+## 🧠 Overview
+This project is a simple yet effective **Password Strength Checker** with a clean graphical user interface (GUI).  
+It analyzes a user’s password in real time and classifies it as **Weak**, **Moderate**, or **Strong**.
 
-## Requirements
+---
 
-- Python 3.x
-- Tkinter (usually comes with Python)
-- re (Python standard library)
+## 🚀 Features
+✅ Real-time password evaluation  
+✅ Checks for:
+- Minimum length (at least 8 characters)
+- Uppercase and lowercase letters
+- Numbers
+- Special symbols  
+✅ Warns if password is in a list of common weak passwords  
+✅ Displays strength color-coded:
+  - 🟥 **Red** → Weak  
+  - 🟧 **Orange** → Moderate  
+  - 🟩 **Green** → Strong  
+✅ Simple and modern Tkinter UI
 
-## Installation
+---
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/password-strength-checker.git
-cd password-strength-checker
-```
-
-2. Run the application:
-```bash
-python password_checker_gui.py
-```
-
-## Usage
-
-1. Enter your password in the input field
-2. Click the eye icon to toggle password visibility
-3. Click "Check Strength" to evaluate the password
-4. The result will be displayed with color-coded feedback:
-   - Red: Weak password
-   - Orange: Moderate password
-   - Green: Strong password
+## ⚙️ Installation
+1. Make sure you have **Python 3.x** installed.  
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
