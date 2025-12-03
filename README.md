@@ -46,6 +46,6 @@ Each subfolder contains:
 
 To clone and explore locally:
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+https://github.com/janmaaarc/cybersecurity-projects
 cd cybersecurity-projects
 ```
